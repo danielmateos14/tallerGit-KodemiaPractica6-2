@@ -1,2 +1,1 @@
-# tallerGit-KodemiaPractica6-2
-Practica 6 repor taller git Kodemia
+[luisliborio078](https://github.com/Luisliborio078)
